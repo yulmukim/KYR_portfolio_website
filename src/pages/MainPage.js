@@ -22,7 +22,7 @@ function MainPage(){
                 }}
             >
             <body className="content">
-                <img className="profile_img" src={profileImg} width={300} height={400} />
+                <img className="profile_img" alt="profile" src={profileImg} width={300} height={400} />
                 <div className="introduce">
                     <TypeIt
                         options={{

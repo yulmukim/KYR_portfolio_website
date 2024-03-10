@@ -26,7 +26,7 @@ function PortfolioPage(){
                         2023.12 {'('}1人 개인 프로젝트{')'}
                     </div>
                     <div className="content_img">
-                        <img className="project_img" src={todolist_img} />
+                        <img className="project_img" alt="project1" src={todolist_img} />
                     </div>
                     <a href="https://github.com/yulmukim/react_todolist/tree/master" className="git"><IoLogoGithub /> Readme 보러가기</a>
                     <h2 className="project_skill">#html #css #javascript #react</h2>
@@ -43,7 +43,7 @@ function PortfolioPage(){
                         2023.12 {'('}1人 개인 프로젝트{')'}
                     </div>
                     <div className="content_img">
-                        <img className="project_img" src={crud_img} />
+                        <img className="project_img" alt="project2" src={crud_img} />
                     </div>
                     <a href="https://github.com/yulmukim/react_CRUD_WEB/tree/master" className="git"><IoLogoGithub /> Readme 보러가기</a>
                     <h2 className="project_skill">#html #css #javascript #react</h2>
@@ -61,7 +61,7 @@ function PortfolioPage(){
                         2024.01-02 {'('}1人 개인 프로젝트{')'}
                     </div>
                     <div className="content_img">
-                        <img className="project_img" src={mydiary_img} />
+                        <img className="project_img" alt="project3" src={mydiary_img} />
                     </div>
                     <a href="https://github.com/yulmukim/My-Diary_React" className="git"><IoLogoGithub /> Readme 보러가기</a>
                     <h2 className="project_skill">#html #css #javascript #react</h2>
@@ -80,7 +80,7 @@ function PortfolioPage(){
                         2024.03 {'('}1人 개인 프로젝트{')'}
                     </div>
                     <div className="content_img">
-                        <img className="project_img" src={portfolio_img} />
+                        <img className="project_img" alt="project4" src={portfolio_img} />
                     </div>
                     <a href="https://github.com/yulmukim/KYR_portfolio_website" className="git"><IoLogoGithub /> Readme 보러가기</a>
                     <h2 className="project_skill">#html #css #javascript #react</h2>
